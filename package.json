@@ -1,0 +1,17 @@
+{
+  "name": "json-trans",
+  "version": "0.0.1",
+  "description": "Transform an object literal using JSONPath.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jsonpath": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
